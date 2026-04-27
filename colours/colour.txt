@@ -1,3 +1,3 @@
-red-madurai
-green-madurai
-blue-madurai
+red-madurai-2
+green-madurai-2
+blue-madurai-2
